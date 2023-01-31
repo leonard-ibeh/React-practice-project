@@ -1,10 +1,9 @@
 import "./App.css";
-
+import Map from "./components/map";
 function App() {
   return (
     <div className="App">
-      <h2>Hello Micheal</h2>
-      <h2>Hello Ezikel</h2>
+      <Map />
     </div>
   );
 }
